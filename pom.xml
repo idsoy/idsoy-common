@@ -12,6 +12,7 @@
 		<dev.version.type>-SNAPSHOT</dev.version.type>
 	</properties>
 	
+	
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
